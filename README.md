@@ -102,6 +102,6 @@ The main objective of this project is:
 ## Authors
 
 - Saurav Bhandari
+- Birat Paudel
 - Sijan Bhattarai
 - Satyam Ghimire
-- Birat Paudel
