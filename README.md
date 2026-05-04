@@ -6,7 +6,7 @@ An intelligent customer support system that understands user intent, detects sen
 
 ## Project Report
 
-> A detailed 60+ page report covering methodology, architecture, and results
+> A detailed 109 page report covering methodology, architecture and results
 
 **[Read the Full Project Report](https://docs.google.com/document/d/13bG4pFFYTncHvJjQSCx1ZjSco9synpm0/edit?usp=sharing&ouid=105605514906295320178&rtpof=true&sd=true)**
 
